@@ -7,3 +7,5 @@ add new line2
 add from dev
 
 add from master
+
+1
